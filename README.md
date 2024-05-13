@@ -72,3 +72,9 @@
 
 <br clear="both">
 
+<!-- Display stats from the github-stats repository -->
+<div align="center">
+  <img src="https://github.com/hamzaamin/github-stats/blob/master/README.md" />
+</div>
+
+###
