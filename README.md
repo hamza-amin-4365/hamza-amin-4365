@@ -2,9 +2,7 @@
     <h1 style="display: inline-block">Hi 👋, I'm Hamza Amin</h1>
 </div>
 
-
 ![github cover](https://github.com/hamza-amin-4365/hamza-amin-4365/assets/125562989/2dbd1591-9e84-41e6-a888-f996d5a7f391)
-
 
 <!--- snake -->
 
@@ -29,35 +27,38 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
+  <!--- GitHub Profile Summary Cards (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamza-amin-4365&theme=dark&show_icons=true&count_private=true" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-amin-4365&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <!-- Overall Stats Card -->
+  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamza-amin-4365&theme=gruvbox" />
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hamza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-amin-4365&theme=dark&hide_border=false" /> 
+  <!-- Language Stats -->
+  <img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza-amin-4365&theme=gruvbox" />
+
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hamza-amin-4365&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <!-- Streak Stats -->
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-amin-4365&theme=dark&hide_border=false" /> 
   
-  </td>
+</td>
 </tr>
 </table>
 
-<!--- stats (end) -->
+<!--- GitHub Profile Summary Cards (end) -->
 
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=hamza-amin-4365&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
 </p>        
 <!--- stats (end) -->
