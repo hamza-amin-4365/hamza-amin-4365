@@ -2,8 +2,6 @@
     <h1 style="display: inline-block">Hi 👋, I'm Hamza Amin</h1>
 </div>
 
-![github cover](https://github.com/hamza-amin-4365/hamza-amin-4365/assets/125562989/2dbd1591-9e84-41e6-a888-f996d5a7f391)
-
 <!--- snake -->
 
 <!--h2 without bottom border-->
