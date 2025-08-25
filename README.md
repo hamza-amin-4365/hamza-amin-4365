@@ -2,7 +2,7 @@
 
 # Hey, I'm Hamza!
 
-Wannabe AI/ML engineer. I code to solve problems and make life easier with AI. Studying for my Bachelor's in Artificial Intelligence and freelancing on cool projects.
+AI/ML engineer. I code to solve problems and make life easier with AI. Studying for my Bachelor's in Artificial Intelligence and freelancing on cool projects.
 Fun fact: The first AI program, Logic Theorist, proved 38 theorems in 1955!
 
 ## What I Do
